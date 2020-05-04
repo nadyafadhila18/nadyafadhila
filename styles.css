@@ -1,0 +1,35 @@
+body{
+background-color: #DEFF8B;;
+}
+hr{
+
+border-style: dashed none none;
+border-color : #5A3F11;;
+border-width : 3px;
+height : 0px;
+width : 45%;
+}
+h1{
+color :#06623B;;
+font-size: 50px;
+font-style:American Typewriter;
+}
+h3{
+	color : #2B580C;;
+	
+}
+.beranda{
+background-color: #F6F578;;
+}	
+.tabel{
+	background-color:#F1E3CB;;
+}
+#nama {
+color:#CF7500;
+font-family:sans-serif;
+
+}
+.pertama{
+	background-color:#FDD998;;
+}
+	
